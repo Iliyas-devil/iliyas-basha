@@ -1,0 +1,11 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.hlo{
+    width: 100px;;
+    padding: 100px;
+    background: none;
+    background-color: brown;
+}
